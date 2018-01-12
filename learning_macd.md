@@ -1,9 +1,16 @@
+# 学习MACD指标
+
+作者:[辵鵵](https://about.me/qyf404)
+创建日期:2017-08-06
+
+---
+
 # 概念
 
 MACD叫指数平滑异同移动平均线指标.
 
-![](http://images.cnblogs.com/cnblogs_com/qyf404/612381/o_macd_03.png)
-![](http://images.cnblogs.com/cnblogs_com/qyf404/612381/o_macd_01.gif)
+![](./images/learning_macd_03.png)
+![](./images/learning_macd_01.gif)
 
 * 零轴
 * MACD柱线
@@ -20,7 +27,7 @@ MACD叫指数平滑异同移动平均线指标.
 
 > 底背离：当股价指数逐波下行，而DIF及MACD不是同步下降，而是逐波上升，与股价走势形成底背离，预示着股价即将上涨。如果此时出现DIF两次由下向上穿过MACD，形成两次黄金交叉，则股价即将大幅度上涨。
 
-![](http://images.cnblogs.com/cnblogs_com/qyf404/612381/o_macd_02.gif)
+![](./images/learning_macd_02.gif)
 
 MACD零轴和柱线是一种相对来说比较有效的判断多空力量变化的工具.零轴是多空力量的分界线:
 
