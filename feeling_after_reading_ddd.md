@@ -1,5 +1,8 @@
 # 读<<领域驱动设计-软件核心复杂性应对之道>>有感
 
+作者:[辵鵵](https://about.me/qyf404)
+日期:2016.08.07
+
 ---
 
 > 道可道,非常道.
@@ -464,10 +467,12 @@ Specification either = ventilatedType1.or(ventilatedType2);
 >
 >--某个和尚
 
----
 
 # 参考
 
 * [<<领域驱动设计:软件核心复杂性应对这道>>](https://www.amazon.cn/gp/product/B01GZ6T12K/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B01GZ6T12K&linkCode=as2&tag=qyf404-23)
 * [<<实现领域驱动设计>>](https://www.amazon.cn/gp/product/B00IYTVWA6/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00IYTVWA6&linkCode=as2&tag=qyf404-23)
 
+---
+
+[关于作者](https://about.me/qyf404)
