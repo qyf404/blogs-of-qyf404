@@ -1,3 +1,5 @@
+![](./logos/spring_logo.png)
+
 # Spring boot 是什么 ?
 
 简单说, spring boot 是一个构建项目的工具, 一个脚手架.
@@ -254,6 +256,6 @@ drwxr-xr-x   3 yfqi  wheel    96 May  5 10:49 gradle
 
 文章的完整代码可以在这里找到: <https://github.com/qyf404/learning-spring-boot>
 
-[关于作者](https://about.me/qyf404)
+作者:[辵鵵](https://about.me/qyf404)
 
 
