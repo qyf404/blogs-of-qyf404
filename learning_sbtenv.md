@@ -1,5 +1,4 @@
 [](学习sbtenv)
-
 ![](./logos/sbt_logo.png)
 
 # 背景
@@ -165,3 +164,5 @@ sbt版本设置生效的优先级依次是:
 # 参考
 
 [sbtenv github](https://github.com/sbtenv/sbtenv)
+
+日期:2018-06-20 作者:[辵鵵](https://about.me/qyf404)
