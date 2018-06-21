@@ -77,7 +77,7 @@ $> jenv versions
 
 	```
 	$> jenv version
-	10.0.1 (set by /Users/yfqi/tmp/.java-version)
+	10.0.1 (set by /Users/qyf404/.java-version)
 	
 	$> java -version
 	java version "10.0.1" 2018-04-17
