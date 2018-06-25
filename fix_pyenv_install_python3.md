@@ -1,4 +1,4 @@
-[](解决在Mac上用pyenv安装python3失败)
+[](解决在Mac上用pyenv安装python3失败的问题)
 
 ![python](./logos/python_logo.png)
 
